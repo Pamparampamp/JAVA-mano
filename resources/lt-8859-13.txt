@@ -1,0 +1,6 @@
+ASCII [?¿ski] (American Standard Code for Information Interchange, ¥Amerikietiðkas informacijos mainø koduotës standartas´) yra simboliø koduotë, pritaikyta anglø kalbos abëcëlei.
+ ASCII kodai naudojami tekstui kompiuteriuose,
+  mobiliuosiuose telefonuose ir kituose komunikacijos árenginiuose áraðyti, saugoti ir atvaizduoti.
+ Dauguma dabartiniø koduoèiø buvo sukurtos papildant ASCII, reèiau pakeièiant dalá simboliø.
+Pirmà kartà ASCII standartas buvo publikuotas 1967 m., o atnaujintas 1986 metais.
+ Ðiuo metu ASCII sudëtyje yra 33 nespausdinami simboliai, kurie naudojami teksto atvaizdavimui apibrëþti, ir iliustracijoje pavaizduoti 95 spausdinami simboliai (pirmasis ið jø ? tarpas ¥ ´):
